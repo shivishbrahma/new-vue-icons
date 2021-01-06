@@ -1,4 +1,4 @@
-# new-vue-icons
+# New Vue Icons
 
 ## Project setup
 ```
